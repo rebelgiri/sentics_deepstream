@@ -1,1 +1,1 @@
-# sentics_deepstream
+# Sentics DeepStream Task
